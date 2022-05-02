@@ -19,7 +19,7 @@ All jupyter notebooks containing the code for this project are in the Scripts su
 
 The original data can be accessed via the data folder.
 
-Source of the data: &quot;The Index of Economic Freedom&quot; from The Heritage Foundation. It can be accessed [here](https://www.heritage.org/index/explore?view=by-region-country-year&amp;u=637862049388246293).
+Source of the data: &quot;The Index of Economic Freedom&quot; from The Heritage Foundation. It can also be accessed [here](https://www.heritage.org/index/explore?view=by-region-country-year&amp;u=637862049388246293).
 
 The presentation of the project in the form of a Tableau Storyboard is accessible [here](https://public.tableau.com/app/profile/verena.diersch/viz/IndexofEconomicFreedomAnalysis/EvaluatingtheIndexofEconomicFreedom?publish=yes).
 

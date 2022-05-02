@@ -20,3 +20,5 @@ The original data can be accessed via the data folder.
 Source of the data: &quot;The Index of Economic Freedom&quot; from The Heritage Foundation. It can be accessed [here](https://www.heritage.org/index/explore?view=by-region-country-year&amp;u=637862049388246293).
 
 The presentation of the project in the form of a Tableau Storyboard is accessible [here](https://public.tableau.com/app/profile/verena.diersch/viz/IndexofEconomicFreedomAnalysis/EvaluatingtheIndexofEconomicFreedom?publish=yes).
+
+Should you have problems to open a ipynb file in GitHub or to have the folium map in Script No 03 correctly displayed, please click on the script and copy the URL into [nbviewer](https://nbviewer.org/) to successfully render it!

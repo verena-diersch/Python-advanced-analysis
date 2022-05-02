@@ -6,14 +6,16 @@ A project of sourcing open data, and analyzing it with advanced analytical funct
 This is a student project I did in my data analytics bootcamp. Using Python and the relevant libraries (pandas, matplotlib, seaborn, matplotlib, folium, sklearn, pylab, quandl) I
 
 - conducted explorative data analysis with seaborn (correlation heatmaps etc.)
-- plotted a choropleth map importing a JSON file and using folium
-- performed regression analysis
-- performed k-means clustering
-- performed time series analysis using an API
+- plotted a choropleth map importing a JSON file and using folium,
+- performed regression analysis,
+- performed k-means clustering,
+- and performed time series analysis using an API.
 
-The project brief can be found elsewhere in this repository.
+The project brief can be found in the subfolder Project Information.
 
-The project description and final deliverable can be found in the relevant folders in this repository.
+A short final report can be found in the subfolder Deliverables.
+
+All jupyter notebooks containing the code for this project are in the Scripts subfolder.
 
 The original data can be accessed via the data folder.
 

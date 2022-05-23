@@ -3,7 +3,7 @@ Regression Analysis, Cluster Analysis and Time Series Analysis with Python
 
 A project of sourcing open data, and analyzing it with advanced analytical functions in Python.
 
-This is a student project I did in my data analytics bootcamp. Using Python and the relevant libraries (pandas, matplotlib, seaborn, folium, sklearn, pylab, quandl) I
+This is a student project I did in my data analytics bootcamp. Using Python and the relevant libraries (pandas, matplotlib, seaborn, folium, sklearn, pylab, quandl, statsmodels) I
 
 - conducted explorative data analysis with seaborn (correlation heatmaps etc.)
 - plotted a choropleth map importing a JSON file and using folium,

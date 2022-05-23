@@ -13,11 +13,11 @@ This is a student project I did in my data analytics bootcamp. Using Python and 
 
 The project brief can be found in the subfolder Project Information.
 
-A short final report can be found in the subfolder Deliverables.
+A short final report and a case study can be found in the subfolder Deliverables.
 
 All jupyter notebooks containing the code for this project are in the Scripts subfolder.
 
-The original data can be accessed via the data folder.
+The original data can be accessed via the Data folder.
 
 Source of the data: &quot;The Index of Economic Freedom&quot; from The Heritage Foundation. It can also be accessed [here](https://www.heritage.org/index/explore?view=by-region-country-year&amp;u=637862049388246293).
 
